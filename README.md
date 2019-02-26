@@ -1,0 +1,64 @@
+# PaperNote
+This repo holds paper reading notes about graph networks and knowledge graph
+
+## Subject
+### Methodology
+1. KG: knowledge graph
+1. GNNs: graph neural networks
+1. KRL/NRL: knowledge/network representation learning
+1. hypergraph
+### Application
+1. Recsys
+1. VQA
+1. QA
+
+## Resources
+1. **THUNLP/GNNPapers** [Web](https://github.com/thunlp/GNNPapers)
+    > THU NLP group's must-reading list about GNN
+1. **Graph Based DL literature** [Web](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md)
+    > Another hub holding good paper with other supplementings about DL-based graph network.
+1. **THUNLP/KRLPapers** [Web](https://github.com/thunlp/KRLPapers)
+    > THU NLP group's knowledge representation learning reading list
+1. **OpenReview**/**Raddit**/**Google Scholar Citation**/**Twitter**
+    > Both for finding papers and useful reviews/comment
+1. **the morning paper** [Web](https://blog.acolyer.org/)
+    > good website for paper sharing
+
+## Supporting Tools
+1. [AI Conference Deadlines](https://aideadlin.es/)
+1. [Papers We Love](https://github.com/papers-we-love/papers-we-love)
+1. [Papers with code](https://paperswithcode.com/sota)
+1. [2 Minute Papers](https://www.youtube.com/user/keeroyz)
+1. [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
+1. [SciRate](https://scirate.com/)
+1. [ACM CSUR](https://csur.acm.org/index.cfm)
+
+## Conf/Journal
+### Journel
+* TPAMI
+* TKDE
+* JMLR
+* VLDBJ
+* TOIS
+### Conf
+* Database/Data Mining/Information Retrieval
+  * SIGKDD
+  * SIGIR
+  * VLDB
+  * ICDE
+  * CIKM
+  * ISWC
+  * ICDM
+  * WSDM
+  * SDM
+* AI
+  * ICLR
+  * AAAI
+  * ICML
+  * IJCAI
+  * NIPS
+  * ACL
+  * EMNLP
+  * KR
+* Crossover
+  * WWW
