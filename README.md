@@ -12,6 +12,18 @@ This repo holds paper reading notes about graph networks and knowledge graph
 1. Recsys
 1. VQA
 1. QA
+### People [TO BE CONTINUED]
+* [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/)
+* [T.Kipf](http://tkipf.github.io/)
+* [Michael Defferrard](http://deff.ch/)
+* [Pierre Vandergheynst](https://about.me/pierre_vandergheynst)
+* [Xavier Bresson](https://twitter.com/xbresson)
+* [Maximilian Nickel](https://mnick.github.io/)
+* [Kyunghyun Cho](http://www.kyunghyuncho.me/)
+* [Jacob Andreas](https://people.eecs.berkeley.edu/~jda/)
+* [Mikael Henaff](http://www.mikaelhenaff.net/)
+* [Max Welling](https://twitter.com/wellingmax)
+* [Ilya Sutskever](https://twitter.com/ilyasut)
 
 ## Resources
 1. **THUNLP/GNNPapers** [Web](https://github.com/thunlp/GNNPapers)
