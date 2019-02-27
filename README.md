@@ -12,7 +12,8 @@ This repo holds paper reading notes about graph networks and knowledge graph
 1. Recsys
 1. VQA
 1. QA
-### People [TO BE CONTINUED]
+### People
+> **TO BE CONTINUED: twitter/email/web, research interest/famous work**
 * [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/)
 * [T.Kipf](http://tkipf.github.io/)
 * [Michael Defferrard](http://deff.ch/)
