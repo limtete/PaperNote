@@ -77,7 +77,7 @@ defination, withou loss of the elegent theoretical foundation from spectral-base
 1. The "relation work" is what i prefer much, for it gives a high view about the graph methods
 and summarize most recent work.
 
-## Ref (Further reading)
+## Ref (Further reading && Comparing with this work)
 1. [Reddit dicussion](https://www.reddit.com/r/MachineLearning/comments/ati9q9/r_simplifying_graph_convolutional_networks_linear/)
 1. NGCN: Multi-scale graph convolution for semi-supervised node classification. Abu-El-Haija, S.
 1. Rethinking knowledge graph propagation for zero-shot learning. Kampffmeyer, M.
