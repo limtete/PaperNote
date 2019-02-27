@@ -7,6 +7,7 @@ This repo holds paper reading notes about graph networks and knowledge graph
 1. GNNs: graph neural networks
 1. KRL/NRL: knowledge/network representation learning
 1. hypergraph
+1. Heterogeneous Information Networks(HIN)
 ### Application
 1. Recsys
 1. VQA
