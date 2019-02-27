@@ -25,6 +25,8 @@ This repo holds paper reading notes about graph networks and knowledge graph
 * [Mikael Henaff](http://www.mikaelhenaff.net/)
 * [Max Welling](https://twitter.com/wellingmax)
 * [Ilya Sutskever](https://twitter.com/ilyasut)
+* [Mathias Niepert](http://www.matlog.net/): 
+  * [twitter](https://twitter.com/Mniepert)
 
 ## Resources
 1. **THUNLP/GNNPapers** [Web](https://github.com/thunlp/GNNPapers)
