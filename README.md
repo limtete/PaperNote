@@ -17,7 +17,7 @@ This repo holds paper reading notes about graph networks and knowledge graph
 * [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/)
 * [Danqi Chen](https://cs.stanford.edu/~danqi/)
   * [twitter](https://twitter.com/danqi_chen)
-  * Major: NLP
+  * Major: Neural Reading Comprehension
   * Current: FAIR, assistant professor(Princeton CS)
 * [T.Kipf](http://tkipf.github.io/)
 * [Michael Defferrard](http://deff.ch/)
