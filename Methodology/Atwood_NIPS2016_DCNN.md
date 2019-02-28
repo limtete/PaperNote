@@ -12,6 +12,7 @@ Combination of DL method and structured data
         > DeepWalk, GCNs, etc.
     1. graph laplacian methods(embed the graph in an Euclidean space)
         > embed to a Euclidean space and use normalized FNNs/CNNs/...
+        > prior assumption is weak: connected node --> same label
 1. GNNs/SpectralCNN+/ChebNet/NeuralFPs
     > faster and also less preprocessing
 1. Probabilistic Relational Models
