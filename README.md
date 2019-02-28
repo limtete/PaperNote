@@ -15,6 +15,10 @@ This repo holds paper reading notes about graph networks and knowledge graph
 ### People
 > **TO BE CONTINUED: twitter/email/web, research interest/famous work**
 * [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/)
+* [Danqi Chen](https://cs.stanford.edu/~danqi/)
+  * [twitter](https://twitter.com/danqi_chen)
+  * Major: NLP
+  * Current: FAIR, assistant professor(Princeton CS)
 * [T.Kipf](http://tkipf.github.io/)
 * [Michael Defferrard](http://deff.ch/)
 * [Pierre Vandergheynst](https://about.me/pierre_vandergheynst)
@@ -27,6 +31,7 @@ This repo holds paper reading notes about graph networks and knowledge graph
 * [Ilya Sutskever](https://twitter.com/ilyasut)
 * [Mathias Niepert](http://www.matlog.net/): 
   * [twitter](https://twitter.com/Mniepert)
+* [姚期智](http://iiis.tsinghua.edu.cn/en/yao/)
 
 ## Resources
 1. **THUNLP/GNNPapers** [Web](https://github.com/thunlp/GNNPapers)
