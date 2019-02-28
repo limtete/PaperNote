@@ -19,6 +19,10 @@ This repo holds paper reading notes about graph networks and knowledge graph
   * [twitter](https://twitter.com/danqi_chen)
   * Major: Neural Reading Comprehension
   * Current: FAIR, assistant professor(Princeton CS)
+* [Hongwei Wang王鸿伟](https://hwwang55.github.io/)
+  * [Github](https://github.com/hwwang55)
+  * Major: KG, GNNs, Recsys, graph-data-mining
+  * Current: Postdoctoral@Stanford
 * [T.Kipf](http://tkipf.github.io/)
 * [Michael Defferrard](http://deff.ch/)
 * [Pierre Vandergheynst](https://about.me/pierre_vandergheynst)
