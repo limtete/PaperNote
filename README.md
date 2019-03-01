@@ -3,16 +3,21 @@ This repo holds paper reading notes about graph networks and knowledge graph
 
 ## Subject
 ### Methodology
-1. KG: knowledge graph
 1. GNNs: graph neural networks
-1. KRL/NRL: knowledge/network representation learning
-1. hypergraph
+1. GRL: graph representation learning
+  > Notation unification:
+  >   1. graph == network
+  >   1. representation learning --> embedding
 1. Heterogeneous Information Networks(HIN)
+  1. **KG**: knowledge graph
+  1. **hypergraph**
+
 ### Application
 1. Recsys
 1. VQA
 1. QA
-### People
+
+## People
 > **TO BE CONTINUED: twitter/email/web, research interest/famous work**
 * [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/)
 * [Danqi Chen](https://cs.stanford.edu/~danqi/)
@@ -37,7 +42,7 @@ This repo holds paper reading notes about graph networks and knowledge graph
   * [twitter](https://twitter.com/Mniepert)
 * [姚期智](http://iiis.tsinghua.edu.cn/en/yao/)
 
-## Resources
+## Guide
 1. **THUNLP/GNNPapers** [Web](https://github.com/thunlp/GNNPapers)
     > THU NLP group's must-reading list about GNN
 1. **Graph Based DL literature** [Web](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md)
@@ -49,7 +54,7 @@ This repo holds paper reading notes about graph networks and knowledge graph
 1. **the morning paper** [Web](https://blog.acolyer.org/)
     > good website for paper sharing
 
-## Supporting Tools
+## Auxiliary
 1. [AI Conference Deadlines](https://aideadlin.es/)
 1. [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 1. [Papers with code](https://paperswithcode.com/sota)
@@ -57,6 +62,7 @@ This repo holds paper reading notes about graph networks and knowledge graph
 1. [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 1. [SciRate](https://scirate.com/)
 1. [ACM CSUR](https://csur.acm.org/index.cfm)
+  > For finding good surveys
 
 ## Conf/Journal
 ### Journel
