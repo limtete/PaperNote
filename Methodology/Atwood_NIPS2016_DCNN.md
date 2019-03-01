@@ -1,6 +1,6 @@
-## Links
-[Diffusion-Convolutional Neural Networks](https://papers.nips.cc/paper/
+## [Diffusion-Convolutional Neural Networks](https://papers.nips.cc/paper/
 6212-diffusion-convolutional-neural-networks)
+================
 
 ## [Round1] Big Que(What the whole field are concerned about)
 Combination of DL method and structured data
