@@ -42,6 +42,10 @@ notes.
 * [Mathias Niepert](http://www.matlog.net/): 
   * [twitter](https://twitter.com/Mniepert)
 * [Andrew Chi-Chih Yao](http://iiis.tsinghua.edu.cn/en/yao/)
+* [Fuzheng Zhang张富峥]()
+  * Email: zhangfuzheng@meituan.com
+* [Xing Xie谢幸]()
+  * Email: xingx@microsoft.com
 
 ## Guide
 1. **THUNLP/GNNPapers** [Web](https://github.com/thunlp/GNNPapers)
