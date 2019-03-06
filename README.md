@@ -50,9 +50,9 @@ notes.
   * Major: data mining, social computing, ubiquitous computing, RecSys
 
 ## Guide
-1. [**THUNLP/GNNPapers**] (https://github.com/thunlp/GNNPapers)
+1. [THUNLP/GNNPapers] (https://github.com/thunlp/GNNPapers)
     > THU NLP group's must-reading list about GNN
-1. [**Graph Based DL literature**](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md)
+1. [Graph Based DL literature](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md)
     > Another hub holding good paper with other supplementings about DL-based graph network.
 1. **List of Recommender Systems**
 1. **THUNLP/KRLPapers** [Web](https://github.com/thunlp/KRLPapers)
