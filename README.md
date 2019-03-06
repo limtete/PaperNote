@@ -44,14 +44,17 @@ notes.
 * [Andrew Chi-Chih Yao](http://iiis.tsinghua.edu.cn/en/yao/)
 * [Fuzheng Zhang张富峥]()
   * Email: zhangfuzheng@meituan.com
-* [Xing Xie谢幸]()
+  * Major: Knowledge graph, RecSys
+* [Xing Xie谢幸](https://www.microsoft.com/en-us/research/people/xingx/)
   * Email: xingx@microsoft.com
+  * Major: data mining, social computing, ubiquitous computing, RecSys
 
 ## Guide
-1. **THUNLP/GNNPapers** [Web](https://github.com/thunlp/GNNPapers)
+1. [**THUNLP/GNNPapers**] (https://github.com/thunlp/GNNPapers)
     > THU NLP group's must-reading list about GNN
-1. **Graph Based DL literature** [Web](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md)
+1. [**Graph Based DL literature**](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md)
     > Another hub holding good paper with other supplementings about DL-based graph network.
+1. **List of Recommender Systems**
 1. **THUNLP/KRLPapers** [Web](https://github.com/thunlp/KRLPapers)
     > THU NLP group's knowledge representation learning reading list
 1. **OpenReview**/**Raddit**/**Google Scholar Citation**/**Twitter**
@@ -71,30 +74,32 @@ notes.
 
 ## Conf/Journal
 ### Journel
-* TPAMI
-* TKDE
-* JMLR
-* VLDBJ
-* TOIS
+* **TPAMI**
+* **TKDE**
+* **TOIS**: ACM Transactions on Information System
+* **TIST**: ACM Transactions on Intelligent Systems and Technology
+* **JMLR**
+* **VLDBJ**
+* **TOIS**
 ### Conf
 * Database/Data Mining/Information Retrieval
-  * SIGKDD
-  * SIGIR
-  * VLDB
-  * ICDE
-  * CIKM
-  * ISWC
-  * ICDM
-  * WSDM
-  * SDM
+  * **SIGKDD**
+  * **SIGIR**
+  * **VLDB**
+  * **ICDE**
+  * **CIKM**
+  * **ISWC**
+  * **ICDM**
+  * **WSDM**
+  * **SDM**
 * AI
-  * ICLR
-  * AAAI
-  * ICML
-  * IJCAI
-  * NIPS
-  * ACL
-  * EMNLP
-  * KR
+  * **ICLR**
+  * **AAAI**
+  * **ICML**
+  * **IJCAI**
+  * **NIPS**
+  * **ACL**
+  * **EMNLP**
+  * **KR**
 * Crossover
-  * WWW
+  * **WWW**
