@@ -51,10 +51,11 @@ notes.
 
 ## Guide
 1. [THUNLP/GNNPapers] (https://github.com/thunlp/GNNPapers)
-    > THU NLP group's must-reading list about GNN
+    > THU/NLP group's must-reading list about GNN
 1. [Graph Based DL literature](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md)
-    > Another hub holding good paper with other supplementings about DL-based graph network.
-1. **List of Recommender Systems**
+    > DL-based graph research and application, paper/code/comment/slide
+1. [List of Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems)
+    > Open source RecSys/Academic Recsys
 1. **THUNLP/KRLPapers** [Web](https://github.com/thunlp/KRLPapers)
     > THU NLP group's knowledge representation learning reading list
 1. **OpenReview**/**Raddit**/**Google Scholar Citation**/**Twitter**
