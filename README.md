@@ -18,7 +18,7 @@ notes.
 1. VQA
 1. QA
 
-## BigDog
+## Researchers
 > **TO BE CONTINUED: twitter/email/web, research interest/famous work**
 * [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/)
 * [Danqi Chen](https://cs.stanford.edu/~danqi/)
@@ -50,7 +50,7 @@ notes.
   * Major: data mining, social computing, ubiquitous computing, RecSys
 
 ## Guide
-1. [THUNLP/GNNPapers] (https://github.com/thunlp/GNNPapers)
+1. [THUNLP/GNNPapers](https://github.com/thunlp/GNNPapers)
     > THU/NLP group's must-reading list about GNN
 1. [Graph Based DL literature](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md)
     > DL-based graph research and application, paper/code/comment/slide
