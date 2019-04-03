@@ -48,6 +48,8 @@ notes.
 * [Xing Xie谢幸](https://www.microsoft.com/en-us/research/people/xingx/)
   * Email: xingx@microsoft.com
   * Major: data mining, social computing, ubiquitous computing, RecSys
+* [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)
+  * Major: RecSys, NLP
 
 ## Guide
 1. [THUNLP/GNNPapers](https://github.com/thunlp/GNNPapers)
