@@ -26,7 +26,7 @@ $\mathbf{s}_{\mathrm{g}}$ and current interest $\mathbf{s}_{\mathrm{l}}$
 
 ## [Round1] Methodology
 
-<img src="../img/sr_gnn.png" width="70%" height="70%">
+<img src="../../img/sr_gnn.png" width="70%" height="70%">
 
 1. construct a session graph
     * item set: <span style="color:#E37F14">$V = \left\{v_{1}, v_{2}, \dots, v_{m}\right\}$</span>
@@ -63,7 +63,7 @@ Given session $s=\left[v_{s, 1}, v_{s, 2}, \dots, v_{s, n}\right]$
     * diginetica
 1. Evaluation metrics
     * Precision@K:
-    > <img src="../img/confuse_matrix.png" width="70%" height="70%">
+    > <img src="../../img/confuse_matrix.png" width="70%" height="70%">
     * Mean reciprocal rank(MRR):  evaluating any process that produces a list of possible responses to a sample of queries, ordered by probability of correctness.
     > $\mathrm{MRR}=\frac{1}{|Q|} \sum_{i=1}^{|Q|} \frac{1}{\operatorname{rank}_{i}}$
 1. Subtask
@@ -87,4 +87,4 @@ Several aspects remains to be considered:
 1. item information knowledge graph.
 
 ## [Round1&2] Ref (Further reading && Comparing with this work)
-> <img src="../img/sr_gnn_baseline.png" width="30%" height="30%">
+> <img src="../../img/sr_gnn_baseline.png" width="30%" height="30%">
