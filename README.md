@@ -79,9 +79,9 @@ notes.
 ### Journel
 * **TPAMI**
 * **TKDE**
-* **DMKD**: Data Mining and Knowledge Discovery
-* **TOIS**: ACM Transactions on Information System
-* **TIST**: ACM Transactions on Intelligent Systems and Technology
+* **DMKD[C2]**: Data Mining and Knowledge Discovery
+* **TOIS[C3]**: ACM Transactions on Information System
+* **TIST[C2]**: ACM Transactions on Intelligent Systems and Technology
 * **JMLR**
 * **VLDBJ**
 * **TOIS**
