@@ -54,11 +54,13 @@ notes.
 ## Guide
 1. [THUNLP/GNNPapers](https://github.com/thunlp/GNNPapers)
     > THU/NLP group's must-reading list about GNN
+1. [Graph Neural Networks and Recommendations](https://github.com/yazdotai/graph-networks)
+    > A list of interesting graph neural networks (GNN) material with a primary interest in recommendations and tensorflow that is continually updated and refined
 1. [Graph Based DL literature](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md)
     > DL-based graph research and application, paper/code/comment/slide
 1. [List of Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems)
     > Open source RecSys/Academic Recsys
-1. **THUNLP/KRLPapers** [Web](https://github.com/thunlp/KRLPapers)
+1. [**THUNLP/KRLPapers**](https://github.com/thunlp/KRLPapers)
     > THU NLP group's knowledge representation learning reading list
 1. **OpenReview**/**Raddit**/**Google Scholar Citation**/**Twitter**
     > Both for finding papers and useful reviews/comment
