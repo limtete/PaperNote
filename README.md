@@ -81,6 +81,7 @@ Research topics, resources and other auxillary material
 1. [SciRate](https://scirate.com/)
 1. [ACM CSUR](https://csur.acm.org/index.cfm)
   > For finding good surveys
+1. [HIN Dataset repo](http://shichuan.org/HIN_dataset.html)
 
 ## Conf/Journal
 ---
