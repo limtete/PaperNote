@@ -1,8 +1,9 @@
 # PaperNote
-This repo holds my current research interest, resources and
-notes.
+---
+Research topics, resources and other auxillary material
 
 ## Subject
+---
 ### Methodology
 1. GNNs: graph neural networks
 1. GRL: graph representation learning
@@ -19,6 +20,7 @@ notes.
 1. QA
 
 ## Researchers
+---
 > **TO BE CONTINUED: twitter/email/web, research interest/famous work**
 * [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/)
 * [Danqi Chen](https://cs.stanford.edu/~danqi/)
@@ -52,6 +54,7 @@ notes.
   * Major: RecSys, NLP
 
 ## Guide
+---
 1. [THUNLP/GNNPapers](https://github.com/thunlp/GNNPapers)
     > THU/NLP group's must-reading list about GNN
 1. [Graph Neural Networks and Recommendations](https://github.com/yazdotai/graph-networks)
@@ -67,7 +70,9 @@ notes.
 1. **the morning paper** [Web](https://blog.acolyer.org/)
     > good website for paper sharing
 
-## Auxiliary
+## Auxiliary Resources
+---
+1. [ACM Doctoral Dissertation Award](https://awards.acm.org/doctoral-dissertation/award-winners): best phd thesis
 1. [AI Conference Deadlines](https://aideadlin.es/)
 1. [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 1. [Papers with code](https://paperswithcode.com/sota)
@@ -78,6 +83,7 @@ notes.
   > For finding good surveys
 
 ## Conf/Journal
+---
 ### Journel
 * **TPAMI**
 * **TKDE**
@@ -109,3 +115,25 @@ notes.
   * **KR**
 * Crossover
   * **WWW**
+
+## Tools
+---
+
+1. shelljs/shx && Gow
+    1. both offers cross-platform Unix-like shell environment.
+    1. shellJS: for node shell
+    1. shx: general Unix-like shell, support better ZN-CH
+    1. Gow: another toolchains for Win10 to use Unix shell
+1. webstorm: 
+> Javascript IDE
+
+    1. key map change to EMACS
+    1. ! + TAB: autocompete basic HTML
+1. NodeJS: framework for JS
+    1. standalone JS shell
+1. Cmder:
+> This is the best win10 shell i can ever find, no need for Gow again.
+1. [Colab](https://colab.research.google.com/)
+> Free T4 GPU on Jupyter notebook like Google plateform.
+1. Slack
+> Communication tools
