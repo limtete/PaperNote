@@ -31,6 +31,11 @@ Research topics, resources and other auxillary material
   * [Github](https://github.com/hwwang55)
   * Major: KG, GNNs, Recsys, graph-data-mining
   * Current: Postdoctoral@Stanford
+* [Minmin Chen](https://www.cse.wustl.edu/~mchen/)
+  * Work: RL+RecSys
+  * Major: see in her website
+  * cv: Google AI
+  * [GoogleAI](https://ai.google/research/people/106011)
 * [T.Kipf](http://tkipf.github.io/)
 * [Michael Defferrard](http://deff.ch/)
 * [Pierre Vandergheynst](https://about.me/pierre_vandergheynst)
@@ -52,6 +57,9 @@ Research topics, resources and other auxillary material
   * Major: data mining, social computing, ubiquitous computing, RecSys
 * [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)
   * Major: RecSys, NLP
+* [librahu](https://github.com/librahu)
+  * Major: HIN, RecSys
+  * his github release project about HINRec and HIN cleaned-up dataset
 
 ## Guide
 ---
