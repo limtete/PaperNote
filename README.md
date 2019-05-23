@@ -80,7 +80,8 @@ Research topics, resources and other auxillary material
 
 ## Auxiliary Resources
 ---
-1. [ACM Doctoral Dissertation Award](https://awards.acm.org/doctoral-dissertation/award-winners): best phd thesis
+1. [ACM Doctoral Dissertation Award](https://awards.acm.org/award_winners?year=&award=146&region=&submit=Submit&isSpecialCategory=): best phd thesis
+1. [Stanford library](http://sulair.stanford.edu/guides/find-dissertations-and-theses): Find dissertations and theses
 1. [AI Conference Deadlines](https://aideadlin.es/)
 1. [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 1. [Papers with code](https://paperswithcode.com/sota)
