@@ -90,7 +90,7 @@ Research topics, resources and other auxillary materials
     > best phd thesis
 1. [Stanford library](http://sulair.stanford.edu/guides/find-dissertations-and-theses)
     > Find dissertations and theses
-1. [MIT Theses](https://dspace.mit.edu/handle/1721.1/7582)
+1. [MIT Theses](https://dspace.mit.edu)
 1. [AI Conference Deadlines](https://aideadlin.es/)
 1. [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 1. [Papers with code](https://paperswithcode.com/sota)
