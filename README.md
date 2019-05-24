@@ -1,6 +1,6 @@
-# PaperNote
+# ResearchHub
 ---
-Research topics, resources and other auxillary material
+Research topics, resources and other auxillary materials
 
 ## Subject
 ---
@@ -16,12 +16,10 @@ Research topics, resources and other auxillary material
 
 ### Application
 1. Recsys
-1. VQA
-1. QA
 
 ## Researchers
 ---
-> **TO BE CONTINUED: twitter/email/web, research interest/famous work**
+> **twitter/email/homepage, interest/famousFor**
 * [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/)
 * [Danqi Chen](https://cs.stanford.edu/~danqi/)
   * [twitter](https://twitter.com/danqi_chen)
@@ -29,15 +27,21 @@ Research topics, resources and other auxillary material
   * Current: FAIR, assistant professor(Princeton CS)
 * [Hongwei Wang王鸿伟](https://hwwang55.github.io/)
   * [Github](https://github.com/hwwang55)
+  * Zhihu Q&A: valuable
   * Major: KG, GNNs, Recsys, graph-data-mining
-  * Current: Postdoctoral@Stanford
+  * MyAt:
+      * his research direction: GNN --> RecSys
+      * good at demonstrating things, logic is pretty clear
+      * he answers broad range of questions on Zhihu, which is very valuable
+        from multi-views
 * [Minmin Chen](https://www.cse.wustl.edu/~mchen/)
-  * Work: RL+RecSys
   * Major: see in her website
-  * cv: Google AI
   * [GoogleAI](https://ai.google/research/people/106011)
+  * MyAt: ReinforcementLearning-based RecSys
 * [T.Kipf](http://tkipf.github.io/)
+  * MyAt: GCN designer
 * [Michael Defferrard](http://deff.ch/)
+  * MyAt: GNs researchers
 * [Pierre Vandergheynst](https://about.me/pierre_vandergheynst)
 * [Xavier Bresson](https://twitter.com/xbresson)
 * [Maximilian Nickel](https://mnick.github.io/)
@@ -49,10 +53,10 @@ Research topics, resources and other auxillary material
 * [Mathias Niepert](http://www.matlog.net/): 
   * [twitter](https://twitter.com/Mniepert)
 * [Andrew Chi-Chih Yao](http://iiis.tsinghua.edu.cn/en/yao/)
-* [Fuzheng Zhang张富峥]()
+* [Fuzheng Zhang]()
   * Email: zhangfuzheng@meituan.com
   * Major: Knowledge graph, RecSys
-* [Xing Xie谢幸](https://www.microsoft.com/en-us/research/people/xingx/)
+* [Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/)
   * Email: xingx@microsoft.com
   * Major: data mining, social computing, ubiquitous computing, RecSys
 * [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)
@@ -63,10 +67,15 @@ Research topics, resources and other auxillary material
 
 ## Guide
 ---
+1. [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+    > a good online educator in Youtube
+1. [RSPapers](https://github.com/hongleizhang/RSPapers)
 1. [THUNLP/GNNPapers](https://github.com/thunlp/GNNPapers)
-    > THU/NLP group's must-reading list about GNN
+    > THU/NLP GNs reading-list
 1. [Graph Neural Networks and Recommendations](https://github.com/yazdotai/graph-networks)
-    > A list of interesting graph neural networks (GNN) material with a primary interest in recommendations and tensorflow that is continually updated and refined
+    > A list of interesting graph neural networks (GNN) material with 
+      a primary interest in recommendations and tensorflow that is 
+      continually updated and refined
 1. [Graph Based DL literature](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md)
     > DL-based graph research and application, paper/code/comment/slide
 1. [List of Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems)
@@ -77,11 +86,10 @@ Research topics, resources and other auxillary material
     > Both for finding papers and useful reviews/comment
 1. **the morning paper** [Web](https://blog.acolyer.org/)
     > good website for paper sharing
-
-## Auxiliary Resources
----
-1. [ACM Doctoral Dissertation Award](https://awards.acm.org/award_winners?year=&award=146&region=&submit=Submit&isSpecialCategory=): best phd thesis
-1. [Stanford library](http://sulair.stanford.edu/guides/find-dissertations-and-theses): Find dissertations and theses
+1. [ACM Doctoral Dissertation Award](https://awards.acm.org/award_winners?year=&award=146&region=&submit=Submit&isSpecialCategory=)
+    > best phd thesis
+1. [Stanford library](http://sulair.stanford.edu/guides/find-dissertations-and-theses)
+    > Find dissertations and theses
 1. [MIT Theses](https://dspace.mit.edu/handle/1721.1/7582)
 1. [AI Conference Deadlines](https://aideadlin.es/)
 1. [Papers We Love](https://github.com/papers-we-love/papers-we-love)
@@ -91,9 +99,26 @@ Research topics, resources and other auxillary material
 1. [SciRate](https://scirate.com/)
 1. [ACM CSUR](https://csur.acm.org/index.cfm)
   > For finding good surveys
-1. [HIN Dataset repo](http://shichuan.org/HIN_dataset.html)
+1. [Reddit machine learning thread WAYR](https://www.reddit.com/r/MachineLearning/comments/bqlb3v/d_machine_learning_wayr_what_are_you_reading_week/) 
+1. [Arxiv Sanity by andrej Karpathy](http://www.arxiv-sanity.com/)
+1. [Microsoft/Recommenders](https://github.com/Microsoft/Recommenders)
+1. [grahamjenson/list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems)
+1. [smore](https://github.com/cnclabs/smore): several baseline codes.
 
-## Conf/Journal
+
+## Data
+---
+1. [RecSys Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html): UCSD(Julian McAuley's Lab) RecSys dataset
+1. [Social Computing Data Repository](http://socialcomputing.asu.edu/pages/home): Social Computing Data Repository at Arizona State University
+1. [YouTube](http://netsg.cs.sfu.ca/youtubedata/): Statistics and Social Network of YouTube Videos
+1. [Kaggle: dataset search](https://www.kaggle.com/)
+1. [crowdAI](https://www.crowdai.org/): Kaggle like
+1. [Google dataset search](https://toolbox.google.com/datasetsearch)
+1. [Microsoft Research Open Data](https://msropendata.com/)
+1. [HIN dataset search](http://shichuan.org/HIN_dataset.html)
+
+
+## Journal/Conf
 ---
 ### Journel
 * **TPAMI**
@@ -129,15 +154,12 @@ Research topics, resources and other auxillary material
 
 ## Tools
 ---
-
 1. shelljs/shx && Gow
     1. both offers cross-platform Unix-like shell environment.
     1. shellJS: for node shell
     1. shx: general Unix-like shell, support better ZN-CH
     1. Gow: another toolchains for Win10 to use Unix shell
-1. webstorm: 
-> Javascript IDE
-
+1. webstorm: Javascript IDE
     1. key map change to EMACS
     1. ! + TAB: autocompete basic HTML
 1. NodeJS: framework for JS
