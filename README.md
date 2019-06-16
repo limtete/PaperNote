@@ -15,11 +15,16 @@ Research topics, resources and other auxillary materials
   1. **hypergraph**
 
 ### Application
-1. Recsys
+1. RL + Graph +
 
 ## Researchers
 ---
-> **twitter/email/homepage, interest/famousFor**
+* [Yuxi Li](https://medium.com/@yuxili)
+  * PhD U. of Alberta
+  * Co-Chair, ICML19 RL for Real Life Workshop
+* [David Silver](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Home.html):
+  * Professor of Computer Science, UCL; DeepMind
+  * AlphaGo
 * [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/)
 * [Danqi Chen](https://cs.stanford.edu/~danqi/)
   * [twitter](https://twitter.com/danqi_chen)
